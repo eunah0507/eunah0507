@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=rect&color=99CCFF&height=180&text=Jeong%20Eun-Ah&animation=&fontColor=FFFFFF&fontSize=90" />
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> About Me </h2>  
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑🏻 About Me </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 꼼꼼한 코드가 프로젝트를 진행시키듯, 성실하고 꼼꼼하게 임하겠습니다. </div> 
     </div>
     <div style="text-align: left;">
