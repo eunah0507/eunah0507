@@ -1,6 +1,6 @@
 <!-- 🔷 Title -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=99CCFF&height=180&text=Jeong%20Eun-Ah&animation=&fontColor=FFFFFF&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=250&section=header&text=Jeong%20Eun%20Ah&fontSize=90" />
 </div>
 
 <!-- 😎 About Me -->
@@ -11,7 +11,6 @@
   </p>
 </div>
 
-# 🛠️ Tech Stack 
 <div align="left">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">💻 Languages</h2>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
