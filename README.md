@@ -69,10 +69,22 @@
   </thead>
   <tbody>
     <tr>
-      <td><2022.11.08 ~ 2022.11.22</td>
-      <td>비트포비아</td>
-      <td>방탈출 예약 사이트</td>
-      <td><a href="https://github.com/eunah0507/EscapeRoom_BeatPhobia.git">🔗 Git</a></td>
+      <td>2025.03.30 ~ ing</td>
+      <td>Hi-Match</td>
+      <td> 2030 청년 ↔ 중소기업 매칭 플랫폼</td>
+      <td><a href="https://github.com/Hi-Match">🔗 Git</a></td>
+    </tr>
+    <tr>
+      <td>2024.07.01 ~ 2024.11.07</td>
+      <td>이번역</td>
+      <td>전국 지하철 종합 웹 서비스</td>
+      <td><a href="https://github.com/None-Step">🔗 Git</a></td>
+    </tr>
+    <tr>
+      <td>2024.03.28 ~ 2024.05.23</td>
+      <td>DEEP</td>
+      <td>주니어 개발자 커뮤니티</td>
+      <td><a href="https://github.com/developerSiteDeep">🔗 Git</a></td>
     </tr>
     <tr>
       <td>2022.12.05 ~ 2023.02.28</td>
@@ -86,23 +98,11 @@
       <td>동시 코드 편집기 이용 사이트</td>
       <td><a href="https://github.com/eunah0507/JA-MONG-IDE.git">🔗 Git</a></td>
     </tr>
-    <tr>
-      <td>2024.03.28 ~ 2024.05.23</td>
-      <td>DEEP</td>
-      <td>주니어 개발자 커뮤니티</td>
-      <td><a href="https://github.com/developerSiteDeep">🔗 Git</a></td>
-    </tr>
-    <tr>
-      <td>2024.07.01 ~ 2024.11.07</td>
-      <td>이번역</td>
-      <td>전국 지하철 종합 웹 서비스</td>
-      <td><a href="https://github.com/None-Step">🔗 Git</a></td>
-    </tr>
-    <tr>
-      <td>2025.03.30 ~ ing</td>
-      <td>Hi-Match</td>
-      <td>청년 ↔ 중소기업 매칭 플랫폼</td>
-      <td><a href="https://github.com/Hi-Match">🔗 Git</a></td>
+     <tr>
+      <td>2022.11.08 ~ 2022.11.22</td>
+      <td>비트포비아</td>
+      <td>방탈출 예약 사이트</td>
+      <td><a href="https://github.com/eunah0507/EscapeRoom_BeatPhobia.git">🔗 Git</a></td>
     </tr>
   </tbody>
 </table>
