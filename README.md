@@ -142,10 +142,10 @@
 <div align="left">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🏫 교육 이수 내역</h2>
   <ul>
-    <li><code>2022.06.30 ~ 2023.03.10</code> <strong>자바(JAVA)기반 클라우드 융합 개발자 양성과정 B1</strong> / KH정보교육원</li>
-    <li><code>2023.01.30 ~ 2023.02.10</code> <strong>삼성 SDS 상반기 알고리즘 특강</strong> / 삼성 SDS</li>
-    <li><code>2023.11.10 ~ 2024.05.23</code> <strong>구름톤 x 인프런 풀스택 트레이닝 4회차</strong> / 주식회사 구름</li>
     <li><code>2025.01.07 ~ 2025.02ㅤㅤ</code> <strong>SSAFY(삼성청년SW아카데미) 13기</strong> → 실무 경험을 위해 자발적으로 퇴소</li>
+    <li><code>2023.11.10 ~ 2024.05.23</code> <strong>구름톤 x 인프런 풀스택 트레이닝 4회차</strong> / 주식회사 구름</li>
+    <li><code>2023.01.30 ~ 2023.02.10</code> <strong>삼성 SDS 상반기 알고리즘 특강</strong> / 삼성 SDS</li>
+    <li><code>2022.06.30 ~ 2023.03.10</code> <strong>자바(JAVA)기반 클라우드 융합 개발자 양성과정 B1</strong> / KH정보교육원</li>
       <br>
   </ul>
 
@@ -159,9 +159,9 @@
 
   <h2>🤓 스터디 운영 및 참여</h2>
   <ul>
-    <li><code>2024.03.28 ~ ing</code> | <strong>내놔라쿠배당토</strong> | 알고리즘, CS 위주의 프로그래밍 스터 </li>
+    <li><code>2024.03.28 ~ ing</code> | <strong>내놔라쿠배당토</strong> | 알고리즘, CS 위주의 프로그래밍 스터디 </li>
     <ul>
-      <li>기본 주 2회 3시간씩 CS, 알고리즘 등 발표 스터디 진행</li>
+      <li>기본 주 2회 3시간씩 CS, 알고리즘 등 발표 진행</li>
       <li>미라클 모닝(오전 9시 ~ 오후 6시) & 토이 프로젝트 등 진행</li>
       <li>Notion을 통한 스터디 페이지 관리</li>
     </ul>  
