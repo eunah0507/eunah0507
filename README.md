@@ -207,7 +207,7 @@
 <br>
 
 <details>
-  <summary>GitAnimals 😎 열심히 하는 개발자 정은아입니다.</summary>
+  <summary>😎 열심히 하는 개발자 정은아입니다. 읽어주셔서 감사합니다!</summary>
   <a href="https://www.gitanimals.org/">
     <img
       src="https://render.gitanimals.org/guilds/714071317917582095/draw"
