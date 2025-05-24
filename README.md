@@ -1,8 +1,8 @@
 <!-- 🔷 Title -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=270&section=header&text=Jeong%20Eun%20Ah&fontColor=ffffff&fontSize=90&fontAlign=50&fontAlignY=40" />
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111ed4,100:ecdada&height=280&text=Jeong%20Eun%20Ah&animation=fadeIn&fontColor=ffffff&fontSize=80&fontAlign=50&fontAlignY=40" />
+    </div>
 
-</div>
 <div align="left">
   <h1 style="border-bottom: 1px solid #d8dee4; color: #282d33;">😎 반갑습니다! 꾸준함의 가치를 믿는 개발자 정은아입니다.</h1>
   <ul>
@@ -151,7 +151,7 @@
 
   <h2>🫡 인턴 경력</h2>
   <ul>
-    <li><code>2025.04.21 ~ 2025.07.20</code> | 콘텐츠R&D본부 인턴 연구원 / <strong>주식회사 코드프레소</strong></li>
+    <li><code>2025.04.21 ~ 2025.07.20</code> | 콘텐츠R&D본부 인턴 연구원 | <strong>주식회사 코드프레소</strong></li>
     <ul>
       <li>IT 교육 콘텐츠 기획 및 제작 참여</li>
     </ul>
@@ -189,24 +189,21 @@
 </ul>
 </div><br>
 
-<!-- 📚 Velog & Baekjoon -->
+<div style="text-align: left;">
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
+<div style="text-align: left;"> <a href=https://velog.io/@eunah/posts> 
+<img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@eunah/posts"></a>
+</div><br> 
+<div style="text-align: left;"></div> 
+</div><br>
+
 <div align="left">
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">📜 Velog & Baekjoon</h2>
-  <br>
-  <a href="https://velog.io/@eunah">
-    <img src="https://velog-readme-stats.vercel.app/api?name=eunah" alt="Velog's GitHub stats">
-  </a>
-  <a href="https://solved.ac/eunah0507">
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">📈 통계 </h2>
+<img src="https://github-readme-stats.vercel.app/api?username=eunah0507&bg_color=60,e0c3fc,8ec5fc&title_color=ffffff&text_color=ffffff" />
+<a href="https://solved.ac/eunah0507">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=eunah0507" alt="Solved.ac 프로필">
   </a>
 </div>
 
-<!-- 📈 GitHub Stats -->
-<br>
-<div align="left">
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">📈 GitHub 통계 </h2>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=eunah0507&bg_color=60,e0c3fc,8ec5fc&title_color=ffffff&text_color=ffffff" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunah0507&layout=compact&bg_color=60,e0c3fc,8ec5fc&title_color=ffffff&text_color=ffffff" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111ed4,100:ecdada&height=150&section=footer" />
 
