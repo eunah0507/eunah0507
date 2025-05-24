@@ -204,6 +204,21 @@
 </div><br> 
 <div style="text-align: left;"></div> 
 </div><br> -->
+<br>
+
+<details>
+  <summary>GitAnimals 😎 열심히 하는 개발자 정은아입니다.</summary>
+  <a href="https://www.gitanimals.org/">
+    <img
+      src="https://render.gitanimals.org/guilds/714071317917582095/draw"
+      width="600"
+      height="300"
+      alt="gitanimals"
+    />
+  </a>
+</details>
+
+
 
 
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111ed4,100:ecdada&height=150&section=footer" /> -->
