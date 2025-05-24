@@ -3,7 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=270&section=header&text=Jeong%20Eun%20Ah&fontColor=ffffff&fontSize=90&fontAlign=50&fontAlignY=40" />
 
 </div>
-<br><br>
 <div align="left">
   <h1 style="border-bottom: 1px solid #d8dee4; color: #282d33;">😎 반갑습니다! 꾸준함의 가치를 믿는 개발자 정은아입니다.</h1>
   <ul>
