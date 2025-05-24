@@ -190,7 +190,7 @@
 </div><br>
 
 <div style="text-align: left;">
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2>
 <div style="text-align: left;"> <a href=https://velog.io/@eunah/posts> 
 <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@eunah/posts"></a>
 </div><br> 
@@ -205,5 +205,5 @@
   </a>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111ed4,100:ecdada&height=150&section=footer" />
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111ed4,100:ecdada&height=150&section=footer" /> -->
 
