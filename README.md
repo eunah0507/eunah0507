@@ -1,6 +1,6 @@
 <!-- 🔷 Title -->
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111ed4,100:ecdada&height=280&text=Jeong%20Eun%20Ah&animation=fadeIn&fontColor=ffffff&fontSize=80&fontAlign=50&fontAlignY=40" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111ed4,100:ecdada&height=280&text=Jeong%20Eun%20Ah&animation=fadeIn&fontColor=ffffff&fontSize=90&fontAlign=50&fontAlignY=40" />
     </div>
 
 <div align="left">
@@ -189,14 +189,6 @@
 </ul>
 </div><br>
 
-<div style="text-align: left;">
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2>
-<div style="text-align: left;"> <a href=https://velog.io/@eunah/posts> 
-<img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@eunah/posts"></a>
-</div><br> 
-<div style="text-align: left;"></div> 
-</div><br>
-
 <div align="left">
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">📈 통계 </h2>
 <img src="https://github-readme-stats.vercel.app/api?username=eunah0507&bg_color=60,e0c3fc,8ec5fc&title_color=ffffff&text_color=ffffff" />
@@ -204,6 +196,15 @@
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=eunah0507" alt="Solved.ac 프로필">
   </a>
 </div>
+
+<!-- <div style="text-align: left;">
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2>
+<div style="text-align: left;"> <a href=https://velog.io/@eunah/posts> 
+<img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white&link=https://velog.io/@eunah/posts"></a>
+</div><br> 
+<div style="text-align: left;"></div> 
+</div><br> -->
+
 
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111ed4,100:ecdada&height=150&section=footer" /> -->
 
