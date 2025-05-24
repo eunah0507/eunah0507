@@ -35,9 +35,9 @@
 
 <h2>☁️ Infra & Tools</h2>
 <!-- Cloud -->
-<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=Amazon-AWS&logoColor=white">
+<img src="https://img.shields.io/badge/AWS-CC6600?style=for-the-badge&logo=Amazon-AWS&logoColor=white">
 <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white">
-<img src="https://img.shields.io/badge/S3-800080?style=for-the-badge&logo=amazon-s3&logoColor=white">
+<img src="https://img.shields.io/badge/S3-4053D6?style=for-the-badge&logo=amazon-s3&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 
 <!-- DevOps -->
