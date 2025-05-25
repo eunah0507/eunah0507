@@ -51,7 +51,7 @@
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
-<img src="https://img.shields.io/badge/Notion-ffffff?style=for-the-badge&logo=notion&logoColor=000000">
+<img src="https://img.shields.io/badge/Notion-f7f7f7?style=for-the-badge&logo=notion&logoColor=000000">
 
 
 </div><br>
