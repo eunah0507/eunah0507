@@ -69,7 +69,19 @@
   </thead>
   <tbody>
     <tr>
-      <td>2025.03.30 ~ ing</td>
+      <td>2025.08.15 ~ 2025.09.31</td>
+      <td>RoomE</td>
+      <td>나만의 방 꾸미기 & 취향 공유 커뮤니티</td>
+      <td></td>
+    </tr>  
+    <tr>
+      <td>2025.08.10 ~ 2025.08.31</td>
+      <td>부산, 드림</td>
+      <td>부산 공공기관 채용 기반 취업·AI 면접 서비스</td>
+      <td><a href="https://github.com/Busan-Dream">🔗 Git</a></td>
+    </tr>  
+    <tr>
+      <td>2025.03.30 ~ 2025. 05. 31</td>
       <td>Hi-Match</td>
       <td> 2030 청년 ↔ 중소기업 매칭 플랫폼</td>
       <td><a href="https://github.com/Hi-Match">🔗 Git</a></td>
@@ -112,7 +124,7 @@
 <div align="left">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🏆 수상 내역 </h2>
 
-  <table>
+<table>
   <thead>
     <tr>
       <th>날짜</th>
@@ -122,6 +134,12 @@
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td><code>2025.08.24</code></td>
+      <td>DIVE 2025 해커톤</td>
+      <td><strong>대상(부산광역시장상)</strong></td>
+      <td>부산광역시</td>
+    </tr>  
     <tr>
       <td><code>2024.12.06</code></td>
       <td>공개 SW개발자대회</td>
