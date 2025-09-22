@@ -69,28 +69,28 @@
   </thead>
   <tbody>
     <tr>
-      <td>2025.08.15 ~ 2025.09.31</td>
-      <td>RoomE</td>
-      <td>나만의 방 꾸미기 & 취향 공유 커뮤니티</td>
-      <td></td>
-    </tr>  
-    <tr>
       <td>2025.08.10 ~ 2025.08.31</td>
       <td>부산, 드림</td>
       <td>부산 공공기관 채용 기반 취업·AI 면접 서비스</td>
       <td><a href="https://github.com/Busan-Dream">🔗 Git</a></td>
-    </tr>  
-    <tr>
-      <td>2025.03.30 ~ 2025. 05. 31</td>
-      <td>Hi-Match</td>
-      <td> 2030 청년 ↔ 중소기업 매칭 플랫폼</td>
-      <td><a href="https://github.com/Hi-Match">🔗 Git</a></td>
     </tr>
     <tr>
       <td>2024.07.01 ~ 2024.11.07</td>
       <td>이번역</td>
       <td>전국 지하철 종합 웹 서비스</td>
       <td><a href="https://github.com/None-Step">🔗 Git</a></td>
+    </tr>  
+    <tr>
+      <td>2025.08.15 ~ 2025.09.31</td>
+      <td>RoomE</td>
+      <td>나만의 방 꾸미기 & 취향 공유 커뮤니티</td>
+      <td></td>
+    </tr>  
+    <tr>
+      <td>2025.03.30 ~ 2025. 05. 31</td>
+      <td>Hi-Match</td>
+      <td> 2030 청년 ↔ 중소기업 매칭 플랫폼</td>
+      <td><a href="https://github.com/Hi-Match">🔗 Git</a></td>
     </tr>
     <tr>
       <td>2024.03.28 ~ 2024.05.23</td>
