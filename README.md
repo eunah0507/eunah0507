@@ -167,37 +167,61 @@
       <br>
   </ul>
 
-  <h2>🫡 인턴 경력</h2>
+<h2>🫡 인턴 경력</h2>
 <ul>
-  <li><code>2025.04.21 ~ 2025.09.30</code> | 콘텐츠R&D본부 인턴 연구원 | <strong>주식회사 코드프레소</strong></li>
+  <li><code>2025.10.13 ~ 2026.01.12</code> | 플랫폼개발R&D본부 인턴 연구원 | <strong>주식회사 코드프레소</strong></li>
+  <ul>
+    <li><strong>사내 학습 플랫폼 유지보수 및 품질 개선</strong></li>
+    <ul>
+      <li>Spring Boot 기반 서비스 내 오류 분석 및 수정</li>
+      <li>API 동작 검증 및 로그 점검 지원</li>
+      <li>일부 예외 처리 검토 및 코드 수정 참여</li>
+      <li>콘텐츠R&D본부와 협업하여 학습 환경 오류 검토 및 개선 제안</li>
+    </ul>
+  </ul>
+
+  <li><code>2025.04.21 ~ 2025.10.02</code> | 콘텐츠R&D본부 인턴 연구원 | <strong>주식회사 코드프레소</strong></li>
   <ul>
     <li><strong>Spring Boot 입문자 대상 학습 콘텐츠 개발</strong></li>
     <ul>
-      <li>학습 문서 기획 및 실습 코드 구현</li>
-      <li>객관식 평가 문항 출제를 통한 학습 효과 검토</li>
+      <li>문서·실습형 학습 콘텐츠 설계 및 제작</li>
+      <li>DTO·Controller 등 특정 레이어 중심의 실습 코드 구현 및 검증</li>
+      <li>스킬별 학습 이해도를 높이기 위한 3분 내외 동영상 콘텐츠 기획</li>
     </ul>
     <li><strong>기업 맞춤형 SQL 실무 평가 문항 출제 (set 2종)</strong></li>
     <ul>
       <li>CTE, JOIN 등 고난이도 문제 설계 및 정답 쿼리 검증 수행</li>
+      <li>SQL 실습 환경 테스트 및 오류 검증 지원</li>
     </ul>
   </ul>
 </ul><br>
 
   <h2>🤓 스터디 운영 및 참여</h2>
+<ul>
+  <li><code>2024.03.28 ~ ing</code> | <strong>내놔라쿠배당토</strong> | 알고리즘·CS 및 프로그래밍 도서 스터디</li>
   <ul>
-    <li><code>2024.03.28 ~ ing</code> | <strong>내놔라쿠배당토</strong> | 알고리즘, CS 위주의 프로그래밍 스터디 </li>
-    <ul>
-      <li>기본 주 2회 3시간씩 CS, 알고리즘 등 발표 진행</li>
-      <li>미라클 모닝(오전 9시 ~ 오후 6시) & 토이 프로젝트 등 진행</li>
-      <li>Notion을 통한 스터디 페이지 관리</li>
-    </ul>  
-    <li><code>2025.02.14 ~ ing</code> | <strong>내공냠냠</strong> | 프로그래밍 도서 스터디</li>
-    <ul>
-      <li>SQL 쿡북 도서 스터디 진행</li>
-      <li>주 1회 온라인 모임으로 약 3시간씩 개념 공유 및 회고, QUIZ 등을 통한 스터디 진행</li>
-      <li>Notion을 통한 스터디 페이지 관리</li>
-    </ul>  
+    <li>기본 주 2회 3시간씩 CS·알고리즘 주제 발표 진행</li>
+    <li>‘HTTP 완벽 가이드’, ‘자바 ORM 표준 JPA 프로그래밍’ 등 도서 병행 학습</li>
+    <li>미라클 모닝(오전 9시 ~ 오후 6시) & 토이 프로젝트 진행</li>
+    <li>Notion을 통한 스터디 페이지 관리</li>
   </ul>
+
+  <li><code>2025.02.14 ~ 2025.07.09</code> | <strong>내공냠냠</strong> | SQL 프로그래밍 도서 스터디</li>
+  <ul>
+    <li>‘SQL 쿡북’을 기반으로 SQL 실무 활용 사례 및 쿼리 작성 학습</li>
+    <li>주 1회 온라인 모임으로 개념 공유·회고 및 QUIZ 진행</li>
+    <li>Notion을 통한 스터디 페이지 관리</li>
+  </ul>
+
+  <li><code>2025.08.05 ~ 2025.10.17</code> | <strong>우먼잇츠 x 구글 스터디 (내공냠냠)</strong> | AI/Gemini 기반 생성형 챗봇 스터디</li>
+  <ul>
+    <li>Google Cloud Skills Boost를 활용한 Gemini 및 Vertex AI 실습 진행</li>
+    <li>주 1회(화) 저녁 8시~10시, 오프라인/온라인 병행</li>
+    <li>생성형 AI 구조 및 활용법 학습, 챗봇 구현 도전</li>
+    <li><a href="https://www.notion.so/swits/AI-Gemini-21bd39944fb980d1a341d7b4ca01ec19?source=copy_link" target="_blank">스터디 정보 페이지</a> · <a href="https://swits.notion.site/AI-Gemini-242d39944fb98017a8b5db4e812db6e8?source=copy_link" target="_blank">활동일지</a></li>
+  </ul>
+</ul><br>
+
 </div>
 
 <br>
