@@ -91,7 +91,7 @@
       <tr>
         <td>2024.03.28 ~ 2024.05.23</td>
         <td>DEEP</td>
-        <td>주니어 개발자 커뮤니티</td>
+        <td>개발자 커뮤니티</td>
         <td><a href="https://github.com/developerSiteDeep">🔗 Git</a></td>
       </tr>
       <tr>
