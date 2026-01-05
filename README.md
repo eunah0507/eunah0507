@@ -122,9 +122,8 @@
 <ul>
   <li><code>2025.10.13 ~ 2026.01.12</code> | 플랫폼개발R&D본부 인턴 연구원 | <strong>주식회사 코드프레소</strong></li>
   <ul>
-    <li><strong>Spring Boot 기반 사내 학습 플랫폼 백엔드 기능 개발 및 구조 개선</strong></li>
+    <li><strong>Spring Boot 기반 서비스 내 오류 분석 및 수정</strong></li>
     <ul>
-      <li>Spring Boot 기반 서비스 내 오류 분석 및 수정</li>
       <li>조직 관리 핵심 기능(설정·권한·사용자 초대) API 설계 및 구현</li>
       <li>AI 평가 재채점 호출 로직 고도화 및 기존 채점 로직 리팩토링</li>
       <li>크레딧 유효기간 도입과 회수·자동 만료 처리 로직 구현</li>
